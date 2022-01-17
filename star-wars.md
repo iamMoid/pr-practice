@@ -19,7 +19,7 @@ accomplished pilot (flew the fewest number of starships):
 | Darth Vader    |                           4 |
 | Han Solo       |                           4 |
 
-By far, the most accomplished pilot of all is R2-D2. He is shown below
+By far, the most accomplished pilot of all is Obi-Wan Kenobi. He is shown below
 piloting a starship.
 
 <div class="figure">
