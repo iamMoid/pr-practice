@@ -24,7 +24,7 @@ piloting a starship.
 
 <div class="figure">
 
-<img src="https://starwarz.com/tbone/wp-content/uploads/2011/08/331.jpg" alt="Most accomplished Star Wars pilot." width="100%" />
+[<img src="https://starwarz.com/tbone/wp-content/uploads/2011/08/331.jpg" alt="Most accomplished Star Wars pilot." width="100%" />](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ewan-mcgregor-obi-wan-1570898048.jpg)
 
 <p class="caption">
 
