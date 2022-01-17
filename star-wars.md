@@ -19,12 +19,12 @@ accomplished pilot (flew the fewest number of starships):
 | Darth Vader    |                           4 |
 | Han Solo       |                           4 |
 
-By far, the most accomplished pilot of all is Obi-Wan Kenobi. He is shown below
+By far, the most accomplished pilot of all is R2-D2. He is shown below
 piloting a starship.
 
 <div class="figure">
 
-[<img src="https://starwarz.com/tbone/wp-content/uploads/2011/08/331.jpg" alt="Most accomplished Star Wars pilot." width="100%" />](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ewan-mcgregor-obi-wan-1570898048.jpg)
+<img src="https://starwarz.com/tbone/wp-content/uploads/2011/08/331.jpg" alt="Most accomplished Star Wars pilot." width="100%" />
 
 <p class="caption">
 
